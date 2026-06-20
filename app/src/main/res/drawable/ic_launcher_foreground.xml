@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="56"
+    android:viewportHeight="56">
+    <group android:translateX="14" android:translateY="12.5">
+        <group android:name="blade0" android:pivotX="14" android:pivotY="15.5" android:rotation="0">
+            <group android:translateX="10" android:translateY="0">
+                <group android:scaleX="0.5" android:scaleY="0.5">
+                    <path android:fillColor="#FFFFFF" android:pathData="M 18.064,0 L 24.312,2.888 L 23.512,10.068 L 12.343,22.724 C 5.86,18.55 1.239,11.735 0,3.799 L 18.064,0 Z" />
+                </group>
+            </group>
+        </group>
+        <group android:name="blade1" android:pivotX="14" android:pivotY="15.5" android:rotation="60">
+            <group android:translateX="10" android:translateY="0">
+                <group android:scaleX="0.5" android:scaleY="0.5">
+                    <path android:fillColor="#FFFFFF" android:pathData="M 18.064,0 L 24.312,2.888 L 23.512,10.068 L 12.343,22.724 C 5.86,18.55 1.239,11.735 0,3.799 L 18.064,0 Z" />
+                </group>
+            </group>
+        </group>
+        <group android:name="blade2" android:pivotX="14" android:pivotY="15.5" android:rotation="120">
+            <group android:translateX="10" android:translateY="0">
+                <group android:scaleX="0.5" android:scaleY="0.5">
+                    <path android:fillColor="#FFFFFF" android:pathData="M 18.064,0 L 24.312,2.888 L 23.512,10.068 L 12.343,22.724 C 5.86,18.55 1.239,11.735 0,3.799 L 18.064,0 Z" />
+                </group>
+            </group>
+        </group>
+        <group android:name="blade3" android:pivotX="14" android:pivotY="15.5" android:rotation="180">
+            <group android:translateX="10" android:translateY="0">
+                <group android:scaleX="0.5" android:scaleY="0.5">
+                    <path android:fillColor="#FFFFFF" android:pathData="M 18.064,0 L 24.312,2.888 L 23.512,10.068 L 12.343,22.724 C 5.86,18.55 1.239,11.735 0,3.799 L 18.064,0 Z" />
+                </group>
+            </group>
+        </group>
+        <group android:name="blade4" android:pivotX="14" android:pivotY="15.5" android:rotation="240">
+            <group android:translateX="10" android:translateY="0">
+                <group android:scaleX="0.5" android:scaleY="0.5">
+                    <path android:fillColor="#FFFFFF" android:pathData="M 18.064,0 L 24.312,2.888 L 23.512,10.068 L 12.343,22.724 C 5.86,18.55 1.239,11.735 0,3.799 L 18.064,0 Z" />
+                </group>
+            </group>
+        </group>
+        <group android:name="blade5" android:pivotX="14" android:pivotY="15.5" android:rotation="300">
+            <group android:translateX="10" android:translateY="0">
+                <group android:scaleX="0.5" android:scaleY="0.5">
+                    <path android:fillColor="#FFFFFF" android:pathData="M 18.064,0 L 24.312,2.888 L 23.512,10.068 L 12.343,22.724 C 5.86,18.55 1.239,11.735 0,3.799 L 18.064,0 Z" />
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>
